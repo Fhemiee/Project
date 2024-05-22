@@ -107,11 +107,14 @@ When explaining the project to a recruiter, focus on the main objectives, the ap
 
 Objective: 
 "The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in our warehouse processes." 
+
 Approach: 
 I randomly collected weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for data analysis, including correlation analysis, control charts, and time series forecasting." 
+
 Key Findings: 
 Found a strong negative correlation between weeks and both order processing time (-0.94) and error rate (-0.97), with statistically significant p-values (<0.0001), indicating our process improvements were effective. 
 Control charts showed that the processes were stable and under control, with a significant reduction in average order processing time. 
 The Time series forecast predicted continued improvement in inventory accuracy, supporting the ongoing efforts to enhance efficiency. 
+
 Results: 
 Overall, was able to reduce the average order processing time from 5 days to 3.6 days, decreased error rates from 4% to 2.3%, and improved inventory accuracy from 95% to 98%. These improvements significantly enhanced operational efficiency. 
