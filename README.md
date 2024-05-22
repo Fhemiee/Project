@@ -77,19 +77,26 @@ Detail: The control chart indicates the order processing time is within control 
 Time Series Forecast for Inventory Accuracy 
 
 Model Type (Multiplicative Error, Multiplicative Trend, Damped): 
+
 Explanation: The model accounts for multiplicative errors and trends, with a damping effect to reduce the impact of the trend over time. 
 Detail: Using a multiplicative error and trend model with damping to forecast inventory accuracy. This model helps predict future values by accounting for the proportional changes and gradually reducing the trend's influence over time. 
 Model Summary: 
 AIC (48.98005) and BIC (60.45219): 
+
 Explanation: These criteria help compare different models. Lower values generally indicate a better fit. 
 Detail: The AIC and BIC values help to assess the model's fit. Lower values suggest a better model, and these values indicate a good fit for our data. 
 Parameter Estimates: 
 Alpha, Beta, Phi, Initial Level (I0), Initial Trend (B0): 
+
 Explanation: These parameters define the behavior of the time series model, such as the smoothing factor, trend, and initial conditions. 
 Detail: The parameter estimates show the model's specifics. For instance, the alpha value represents the smoothing factor, which influences how much weight recent observations have on the forecast. The initial level and trend parameters set the starting point for the model. 
 One-Step-Ahead Forecasting Errors: 
+
 Explanation: This graph shows the differences between the actual and predicted values for each time point. 
 Detail: The forecasting errors are small and consistently close to zero, indicating that the model's predictions are accurate.
+
+
+
 
 
 Detail of the Overall Process 
