@@ -66,9 +66,43 @@ Key Points:
 Lower Control Limit (LCL): 3.453337 days 
 Upper Control Limit (UCL): 4.234663 days 
 Average: 3.844 days 
+
 Detail: The control chart indicates the order processing time is within control limits, showing consistent improvement without unusual variations. The average processing time has dropped to 3.84 days, which is within the expected range. 
 
 
 <img width="729" alt="Screenshot 2024-05-21 at 11 18 02 PM" src="https://github.com/Fhemiee/Project/assets/154028690/23aff155-eb19-4cce-a4fe-f500d5aaeb79">
 
 <img width="729" alt="Screenshot 2024-05-21 at 11 18 08 PM" src="https://github.com/Fhemiee/Project/assets/154028690/1cdda2bb-8ee4-46aa-827b-a376d7df5004">
+
+Time Series Forecast for Inventory Accuracy 
+
+Model Type (Multiplicative Error, Multiplicative Trend, Damped): 
+Explanation: The model accounts for multiplicative errors and trends, with a damping effect to reduce the impact of the trend over time. 
+Detail: Using a multiplicative error and trend model with damping to forecast inventory accuracy. This model helps predict future values by accounting for the proportional changes and gradually reducing the trend's influence over time. 
+Model Summary: 
+AIC (48.98005) and BIC (60.45219): 
+Explanation: These criteria help compare different models. Lower values generally indicate a better fit. 
+Detail: The AIC and BIC values help to assess the model's fit. Lower values suggest a better model, and these values indicate a good fit for our data. 
+Parameter Estimates: 
+Alpha, Beta, Phi, Initial Level (I0), Initial Trend (B0): 
+Explanation: These parameters define the behavior of the time series model, such as the smoothing factor, trend, and initial conditions. 
+Detail: The parameter estimates show the model's specifics. For instance, the alpha value represents the smoothing factor, which influences how much weight recent observations have on the forecast. The initial level and trend parameters set the starting point for the model. 
+One-Step-Ahead Forecasting Errors: 
+Explanation: This graph shows the differences between the actual and predicted values for each time point. 
+Detail: The forecasting errors are small and consistently close to zero, indicating that the model's predictions are accurate.
+
+
+Detail of the Overall Process 
+
+When explaining the project to a recruiter, focus on the main objectives, the approach you took, and the key results: 
+
+Objective: 
+"The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in our warehouse processes." 
+Approach: 
+I randomly collected weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for data analysis, including correlation analysis, control charts, and time series forecasting." 
+Key Findings: 
+Found a strong negative correlation between weeks and both order processing time (-0.94) and error rate (-0.97), with statistically significant p-values (<0.0001), indicating our process improvements were effective. 
+Control charts showed that the processes were stable and under control, with a significant reduction in average order processing time. 
+The Time series forecast predicted continued improvement in inventory accuracy, supporting the ongoing efforts to enhance efficiency. 
+Results: 
+Overall, was able to reduce the average order processing time from 5 days to 3.6 days, decreased error rates from 4% to 2.3%, and improved inventory accuracy from 95% to 98%. These improvements significantly enhanced operational efficiency. 
