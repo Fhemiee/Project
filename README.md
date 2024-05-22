@@ -39,6 +39,22 @@ Forecasted Inventory Accuracy
 <img width="510" alt="Screenshot 2024-05-21 at 11 17 00 PM" src="https://github.com/Fhemiee/Project/assets/154028690/617a8f71-f6fe-4e3d-bb71-6c0fb025b315">
 
 <img width="407" alt="Screenshot 2024-05-21 at 11 17 18 PM" src="https://github.com/Fhemiee/Project/assets/154028690/8f0ec452-28f9-4eee-852e-54ef3720c046">
+Bivariate Fit of Order Processing Time (days) By Week 
+
+Correlation (-0.93955): 
+Explanation: Correlation measures the strength and direction of a linear relationship between two variables. A correlation of -0.93955 indicates a strong negative relationship between weeks and order processing time. As the weeks increase, the order processing time decreases significantly. 
+Detail: The negative correlation of -0.94 shows that as time progresses, the order processing time has decreased significantly, indicating that the process improvements are having a “positive effect." 
+Significance Probability (<.0001): 
+Explanation: The p-value indicates the probability that the observed correlation is due to random chance. A very low p-value (<0.0001) means the result is statistically significant and highly unlikely to be due to chance. 
+Detail: The p-value is less than 0.0001, which means the reduction in order processing time is statistically significant and not due to random variation. 
+2. Bivariate Fit of Error Rate (%) By Week 
+
+Correlation (-0.96504): 
+Explanation: A correlation of -0.96504 indicates a very strong negative relationship between week and error rate. As the weeks increase, the error rate decreases significantly. 
+Detail: The strong negative correlation of -0.97 shows the error rates have consistently decreased over time, demonstrating the effectiveness of our quality improvement measures. 
+Significance Probability (<.0001): 
+Explanation: A very low p-value (<0.0001) indicates that the observed reduction in error rate is statistically significant and not due to random chance. 
+Detail: With a p-value of less than 0.0001, the decrease in error rate is statistically significant and not just a random fluctuation. 
 
 <img width="1037" alt="Screenshot 2024-05-21 at 11 17 38 PM" src="https://github.com/Fhemiee/Project/assets/154028690/c06eefed-b8dc-4a86-bfc7-a8b255d93e7c">
 
