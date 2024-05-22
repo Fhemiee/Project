@@ -94,13 +94,14 @@ One-Step-Ahead Forecasting Errors:
 
 Explanation: This graph shows the differences between the actual and predicted values for each time point. 
 Detail: The forecasting errors are small and consistently close to zero, indicating that the model's predictions are accurate.
-
-
-
-
+.
+.
+.
+.
 
 
 Detail of the Overall Process 
+
 When explaining the project to a recruiter, focus on the main objectives, the approach you took, and the key results: 
 
 Objective: 
