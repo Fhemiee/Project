@@ -16,9 +16,11 @@ Inventory Accuracy: Increased from 95% to 98%.
 Pick and Pack Time: Reduced from 20 minutes to 14 minutes.
 Using JMP Pro, I analyzed performance data and visualized the impact of the changes. Below are some insights:
 
-Order Processing Time Trend: 
-Error Rate Improvement: 
-Forecasted Inventory Accuracy: 
+Order Processing Time Trend 
+
+Error Rate Improvement 
+
+Forecasted Inventory Accuracy 
 
 <img width="893" alt="Screenshot 2024-05-21 at 11 18 31 PM" src="https://github.com/Fhemiee/Project/assets/154028690/021a8297-8616-4931-930f-b01fe2890d90">
 
