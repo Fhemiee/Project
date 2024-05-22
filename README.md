@@ -59,6 +59,15 @@ A very low p-value (<0.0001) indicates that the observed reduction in error rate
 Detail: With a p-value of less than 0.0001, the decrease in error rate is statistically significant and not just a random fluctuation. 
 
 <img width="1037" alt="Screenshot 2024-05-21 at 11 17 38 PM" src="https://github.com/Fhemiee/Project/assets/154028690/c06eefed-b8dc-4a86-bfc7-a8b255d93e7c">
+Control Chart for Order Processing Time 
+
+Explanation: A control chart is used to monitor the stability of a process. It shows the individual order processing times over weeks, with control limits that indicate the expected range of variation. 
+Key Points: 
+Lower Control Limit (LCL): 3.453337 days 
+Upper Control Limit (UCL): 4.234663 days 
+Average: 3.844 days 
+Detail: The control chart indicates the order processing time is within control limits, showing consistent improvement without unusual variations. The average processing time has dropped to 3.84 days, which is within the expected range. 
+
 
 <img width="729" alt="Screenshot 2024-05-21 at 11 18 02 PM" src="https://github.com/Fhemiee/Project/assets/154028690/23aff155-eb19-4cce-a4fe-f500d5aaeb79">
 
