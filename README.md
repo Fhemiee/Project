@@ -8,6 +8,7 @@ Agile Methodologies: Transitioned to Agile with sprint planning, daily stand-ups
 Lean Principles: I would apply value stream mapping and 5S implementation to eliminate waste and streamline processes.
 Data-Driven Decision Making: Utilized JMP Pro for statistical analysis, control charts, and time series forecasting to monitor and improve processes.
 Training and Education: I Would provid Agile and Lean training to team members to ensure a smooth transition and continuous improvement.
+
 Results:
 
 Order Processing Time: Reduced from 5 days to 3.6 days.
@@ -16,11 +17,11 @@ Inventory Accuracy: Increased from 95% to 98%.
 Pick and Pack Time: Reduced from 20 minutes to 14 minutes.
 Using JMP Pro, I analyzed performance data and visualized the impact of the changes. Below are some insights:
 
-Order Processing Time Trend 
+Order Processing Time Trend: 
 
-Error Rate Improvement 
+Error Rate Improvement:
 
-Forecasted Inventory Accuracy 
+Forecasted Inventory Accuracy:
 
 <img width="893" alt="Screenshot 2024-05-21 at 11 18 31 PM" src="https://github.com/Fhemiee/Project/assets/154028690/021a8297-8616-4931-930f-b01fe2890d90">
 
