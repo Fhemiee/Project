@@ -40,7 +40,7 @@ Forecasted Inventory Accuracy
 
 <img width="407" alt="Screenshot 2024-05-21 at 11 17 18 PM" src="https://github.com/Fhemiee/Project/assets/154028690/8f0ec452-28f9-4eee-852e-54ef3720c046">
 
-Bivariate Fit of Order Processing Time (days) By Week 
+1. Bivariate Fit of Order Processing Time (days) By Week 
 Correlation (-0.93955): 
 Explanation: Correlation measures the strength and direction of a linear relationship between two variables. A correlation of -0.93955 indicates a strong negative relationship between weeks and order processing time. As the weeks increase, the order processing time decreases significantly. 
 Detail: The negative correlation of -0.94 shows that as time progresses, the order processing time has decreased significantly, indicating that the process improvements are having a “positive effect." 
