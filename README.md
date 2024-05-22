@@ -106,7 +106,7 @@ Detail: The forecasting errors are small and consistently close to zero, indicat
 Detail of the Overall Process 
 
 Objective: 
-"The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in our warehouse processes." 
+"The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in warehouse processes." 
 
 Approach: 
 I randomly collected weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for data analysis, including correlation analysis, control charts, and time series forecasting." 
