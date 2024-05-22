@@ -105,8 +105,6 @@ Detail: The forecasting errors are small and consistently close to zero, indicat
 
 Detail of the Overall Process 
 
-When explaining the project to a recruiter, focus on the main objectives, the approach you took, and the key results: 
-
 Objective: 
 "The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in our warehouse processes." 
 
