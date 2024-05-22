@@ -6,7 +6,7 @@ Solutions Implemented:
 
 Agile Methodologies: Transitioned to Agile with sprint planning, daily stand-ups, and retrospectives to improve flexibility and collaboration.
 Lean Principles: I would apply value stream mapping and 5S implementation to eliminate waste and streamline processes.
-Data-Driven Decision Making: Used JMP Pro for statistical analysis, control charts, and time series forecasting to monitor and improve processes.
+Data-Driven Decision Making: Utilized JMP Pro for statistical analysis, control charts, and time series forecasting to monitor and improve processes.
 Training and Education: I Would provid Agile and Lean training to team members to ensure a smooth transition and continuous improvement.
 Results:
 
