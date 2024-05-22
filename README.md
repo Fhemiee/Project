@@ -109,7 +109,7 @@ Objective:
 "The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in warehouse processes." 
 
 Approach: 
-I randomly collected weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for data analysis, including correlation analysis, control charts, and time series forecasting." 
+I randomly collect weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for data analysis, including correlation analysis, control charts, and time series forecasting." 
 
 Key Findings: 
 Found a strong negative correlation between weeks and both order processing time (-0.94) and error rate (-0.97), with statistically significant p-values (<0.0001), indicating our process improvements were effective. 
