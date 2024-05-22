@@ -12,9 +12,13 @@ Training and Education: I Would provid Agile and Lean training to team members t
 Results:
 
 Order Processing Time: Reduced from 5 days to 3.6 days.
+
 Error Rate: Decreased from 4% to 2.3%.
+
 Inventory Accuracy: Increased from 95% to 98%.
+
 Pick and Pack Time: Reduced from 20 minutes to 14 minutes.
+
 Using JMP Pro, I analyzed performance data and visualized the impact of the changes. Below are some insights:
 
 Order Processing Time Trend: 
