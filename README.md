@@ -93,10 +93,7 @@ The p-value indicates the probability that the observed correlation is due to ra
   - Explanation: This graph shows the differences between the actual and predicted values for each time point. 
   - Detail: The forecasting errors are small and consistently close to zero, indicating that the model's predictions are accurate.
 
-.
-.
-.
-.
+
 
 
 ### Detail of the Overall Process 
@@ -108,9 +105,9 @@ The p-value indicates the probability that the observed correlation is due to ra
   - I collect random weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for           data analysis, including correlation analysis, control charts, and time series forecasting." 
 
 - Key Findings
-Found a strong negative correlation between weeks and both order processing time (-0.94) and error rate (-0.97), with statistically significant p-values (<0.0001), indicating our process improvements were effective. 
+  - Found a strong negative correlation between weeks and both order processing time (-0.94) and error rate (-0.97), with statistically significant p-values (<0.0001), indicating our process improvements were effective. 
 Control charts showed that the processes were stable and under control, with a significant reduction in average order processing time. 
 The Time series forecast predicted continued improvement in inventory accuracy, supporting the ongoing efforts to enhance efficiency. 
 
 - Results 
-Overall, was able to reduce the average order processing time from 5 days to 3.6 days, decreased error rates from 4% to 2.3%, and improved inventory accuracy from 95% to 98%. These improvements significantly enhanced operational efficiency. 
+  - Overall, was able to reduce the average order processing time from 5 days to 3.6 days, decreased error rates from 4% to 2.3%, and improved inventory accuracy from 95% to 98%. These improvements significantly enhanced operational efficiency. 
