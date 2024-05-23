@@ -1,28 +1,26 @@
-# Project
-Warehouse Process Optimization Using Agile Methodologies
-Objective: To enhance order fulfillment speed, reduce errors, and improve overall efficiency.
 
-Solutions Implemented:
+# Project ~ Warehouse Process Optimization Using Agile Methodologies
+## Objective: To enhance order fulfillment speed, reduce errors, and improve overall efficiency.
 
-Agile Methodologies: Transitioned to Agile with sprint planning, daily stand-ups, and retrospectives to improve flexibility and collaboration.
-Lean Principles: I would apply value stream mapping and 5S implementation to eliminate waste and streamline processes.
-Data-Driven Decision Making: Utilized JMP Pro for statistical analysis, control charts, and time series forecasting to monitor and improve processes.
-Training and Education: I Would provide Agile and Lean training to team members to ensure a smooth transition and continuous improvement.
+## Solutions Implemented:
 
-Results:
+- Agile Methodologies: Transitioned to Agile with sprint planning, daily stand-ups, and retrospectives to improve flexibility and collaboration.
+- Lean Principles: I would apply value stream mapping and 5S implementation to eliminate waste and streamline processes.
+- Data-Driven Decision Making: Utilized JMP Pro for statistical analysis, control charts, and time series forecasting to monitor and improve processes.
+- Training and Education: I Would provide Agile and Lean training to team members to ensure a smooth transition and continuous improvement.
 
-Order Processing Time: Reduced from 5 days to 3.6 days..
-Error Rate: Decreased from 4% to 2.3%..
-Inventory Accuracy: Increased from 95% to 98%..
-Pick and Pack Time: Reduced from 20 minutes to 14 minutes..
+## Results:
+
+- Order Processing Time: Reduced from 5 days to 3.6 days
+- Error Rate: Decreased from 4% to 2.3%
+- Inventory Accuracy: Increased from 95% to 98%
+- Pick and Pack Time: Reduced from 20 minutes to 14 minutes
 
 Using JMP Pro, I analyzed performance data and visualized the impact of the changes. Below are some insights:
 
-Order Processing Time Trend: 
-
-Error Rate Improvement:
-
-Forecasted Inventory Accuracy:
+- Order Processing Time Trend 
+- Error Rate Improvement
+- Forecasted Inventory Accuracy
 
 <img width="893" alt="Screenshot 2024-05-21 at 11 18 31 PM" src="https://github.com/Fhemiee/Project/assets/154028690/021a8297-8616-4931-930f-b01fe2890d90">
 
@@ -42,60 +40,58 @@ Forecasted Inventory Accuracy:
 
 <img width="407" alt="Screenshot 2024-05-21 at 11 17 18 PM" src="https://github.com/Fhemiee/Project/assets/154028690/8f0ec452-28f9-4eee-852e-54ef3720c046">
 
-1. Bivariate Fit of Order Processing Time (days) By Week 
-
-Correlation (-0.93955): 
-Explanation: Correlation measures the strength and direction of a linear relationship between two variables. A correlation of -0.93955 indicates a strong negative relationship between weeks and order processing time. As the weeks increase, the order processing time decreases significantly. 
+## Bivariate Fit of Order Processing Time (days) By Week 
+- Correlation (-0.93955)
+  - Explanation: Correlation measures the strength and direction of a linear relationship between two variables. A correlation of -0.93955 indicates a strong negative relationship between weeks and order processing time. As the weeks increase, the order processing time decreases significantly. 
 The negative correlation of -0.94 shows that as time progresses, the order processing time has decreased significantly, indicating that the process improvements are having a “positive effect." 
 Significance Probability (<.0001): 
 The p-value indicates the probability that the observed correlation is due to random chance. A very low p-value (<0.0001) means the result is statistically significant and highly unlikely to be due to chance. 
-Detail: The p-value is less than 0.0001, which means the reduction in order processing time is statistically significant and not due to random variation. 
+  - Detail: The p-value is less than 0.0001, which means the reduction in order processing time is statistically significant and not due to random variation. 
 
-2. Bivariate Fit of Error Rate (%) By Week 
 
-Correlation (-0.96504): 
-Explanation: A correlation of -0.96504 indicates a very strong negative relationship between week and error rate. As the weeks increase, the error rate decreases significantly. 
-The strong negative correlation of -0.97 shows the error rates have consistently decreased over time, demonstrating the effectiveness of our quality improvement measures. 
-Significance Probability (<.0001): 
-A very low p-value (<0.0001) indicates that the observed reduction in error rate is statistically significant and not due to random chance. 
-Detail: With a p-value of less than 0.0001, the decrease in error rate is statistically significant and not just a random fluctuation. 
+##  Bivariate Fit of Error Rate (%) By Week 
+- Correlation (-0.96504)
+  - Explanation: A correlation of -0.96504 indicates a very strong negative relationship between week and error rate. As the weeks increase, the error rate decreases significantly. 
+  The strong negative correlation of -0.97 shows the error rates have consistently decreased over time, demonstrating the effectiveness of our quality       improvement measures. 
+  Significance Probability (<.0001): 
+  A very low p-value (<0.0001) indicates that the observed reduction in error rate is statistically significant and not due to random chance. 
+  - Detail: With a p-value of less than 0.0001, the decrease in error rate is statistically significant and not just a random fluctuation. 
 
 <img width="1037" alt="Screenshot 2024-05-21 at 11 17 38 PM" src="https://github.com/Fhemiee/Project/assets/154028690/c06eefed-b8dc-4a86-bfc7-a8b255d93e7c">
-Control Chart for Order Processing Time 
 
-Explanation: A control chart is used to monitor the stability of a process. It shows the individual order processing times over weeks, with control limits that indicate the expected range of variation. 
-Key Points: 
-Lower Control Limit (LCL): 3.453337 days 
-Upper Control Limit (UCL): 4.234663 days 
-Average: 3.844 days 
 
-Detail: The control chart indicates the order processing time is within control limits, showing consistent improvement without unusual variations. The average processing time has dropped to 3.84 days, which is within the expected range. 
+## Control Chart for Order Processing Time 
+- Explanation: A control chart is used to monitor the stability of a process. It shows the individual order processing times over weeks, with control         limits that indicate the expected range of variation. 
+- Key Points: 
+  - Lower Control Limit (LCL): 3.453337 days 
+  - Upper Control Limit (UCL): 4.234663 days 
+  - Average: 3.844 days 
+
+- Detail: The control chart indicates the order processing time is within control limits, showing consistent improvement without unusual variations. The     average processing time has dropped to 3.84 days, which is within the expected range. 
 
 
 <img width="729" alt="Screenshot 2024-05-21 at 11 18 02 PM" src="https://github.com/Fhemiee/Project/assets/154028690/23aff155-eb19-4cce-a4fe-f500d5aaeb79">
 
 <img width="729" alt="Screenshot 2024-05-21 at 11 18 08 PM" src="https://github.com/Fhemiee/Project/assets/154028690/1cdda2bb-8ee4-46aa-827b-a376d7df5004">
 
-Time Series Forecast for Inventory Accuracy 
+## Time Series Forecast for Inventory Accuracy 
+- Model Type (Multiplicative Error, Multiplicative Trend, Damped): 
+  - Explanation: The model accounts for multiplicative errors and trends, with a damping effect to reduce the impact of the trend over time. 
+  - Detail: Using a multiplicative error and trend model with damping to forecast inventory accuracy. This model helps predict future values by accounting for the proportional changes and gradually reducing the trend's influence over time. 
 
-Model Type (Multiplicative Error, Multiplicative Trend, Damped): 
+- Model Summary: 
+    - AIC (48.98005) and BIC (60.45219): 
+  - Explanation: These criteria help compare different models. Lower values generally indicate a better fit. 
+  -  Detail: The AIC and BIC values help to assess the model's fit. Lower values suggest a better model, and these values indicate a good fit for our data. 
 
-Explanation: The model accounts for multiplicative errors and trends, with a damping effect to reduce the impact of the trend over time. 
-Detail: Using a multiplicative error and trend model with damping to forecast inventory accuracy. This model helps predict future values by accounting for the proportional changes and gradually reducing the trend's influence over time. 
-Model Summary: 
-AIC (48.98005) and BIC (60.45219): 
+- Parameter Estimates: 
+    - Alpha, Beta, Phi, Initial Level (I0), Initial Trend (B0): 
+  - Explanation: These parameters define the behavior of the time series model, such as the smoothing factor, trend, and initial conditions. 
+  - Detail: The parameter estimates show the model's specifics. For instance, the alpha value represents the smoothing factor, which influences how much weight recent observations have on the forecast. The initial level and trend parameters set the starting point for the model. 
 
-Explanation: These criteria help compare different models. Lower values generally indicate a better fit. 
-Detail: The AIC and BIC values help to assess the model's fit. Lower values suggest a better model, and these values indicate a good fit for our data. 
-Parameter Estimates: 
-Alpha, Beta, Phi, Initial Level (I0), Initial Trend (B0): 
-
-Explanation: These parameters define the behavior of the time series model, such as the smoothing factor, trend, and initial conditions. 
-Detail: The parameter estimates show the model's specifics. For instance, the alpha value represents the smoothing factor, which influences how much weight recent observations have on the forecast. The initial level and trend parameters set the starting point for the model. 
-One-Step-Ahead Forecasting Errors: 
-
-Explanation: This graph shows the differences between the actual and predicted values for each time point. 
-Detail: The forecasting errors are small and consistently close to zero, indicating that the model's predictions are accurate.
+- One-Step-Ahead Forecasting Errors: 
+  - Explanation: This graph shows the differences between the actual and predicted values for each time point. 
+  - Detail: The forecasting errors are small and consistently close to zero, indicating that the model's predictions are accurate.
 
 .
 .
@@ -103,18 +99,18 @@ Detail: The forecasting errors are small and consistently close to zero, indicat
 .
 
 
-Detail of the Overall Process 
+### Detail of the Overall Process 
 
-Objective: 
-"The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in warehouse processes." 
+- Objective: 
+  -The goal of the project was to enhance order fulfillment speed, reduce errors, and improve overall efficiency in warehouse processes.
 
-Approach: 
-I randomly collect weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for data analysis, including correlation analysis, control charts, and time series forecasting." 
+- Approach: 
+  - I collect random weekly data on key metrics like order processing time, error rate, inventory accuracy, and pick and pack time. Using JMP Pro for           data analysis, including correlation analysis, control charts, and time series forecasting." 
 
-Key Findings: 
+- Key Findings: 
 Found a strong negative correlation between weeks and both order processing time (-0.94) and error rate (-0.97), with statistically significant p-values (<0.0001), indicating our process improvements were effective. 
 Control charts showed that the processes were stable and under control, with a significant reduction in average order processing time. 
 The Time series forecast predicted continued improvement in inventory accuracy, supporting the ongoing efforts to enhance efficiency. 
 
-Results: 
+- Results: 
 Overall, was able to reduce the average order processing time from 5 days to 3.6 days, decreased error rates from 4% to 2.3%, and improved inventory accuracy from 95% to 98%. These improvements significantly enhanced operational efficiency. 
