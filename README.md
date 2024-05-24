@@ -111,3 +111,11 @@ The Time series forecast predicted continued improvement in inventory accuracy, 
 
 - Results 
   - Overall, was able to reduce the average order processing time from 5 days to 3.6 days, decreased error rates from 4% to 2.3%, and improved inventory accuracy from 95% to 98%. These improvements significantly enhanced operational efficiency. 
+
+
+Graph Builder(
+	Size( 528, 482 ),
+	Show Control Panel( 0 ),
+	Variables( X( :Week ), Y( :"Pick and Pack Time (minutes)"n ) ),
+	Elements( Points( X, Y, Legend( 3 ) ), Line( X, Y, Legend( 5 ) ) )
+);
